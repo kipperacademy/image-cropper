@@ -21,7 +21,7 @@ Não migre a aplicação para Kotlin/.NET/Java durante a aula: transfira conceit
 
 ## Critério de pronto comum
 
-1. Spec curta: problema, comportamento, escopo, exemplos e critério verificável.
+1. Spec curta: problema, usuário, trabalho desejado, comportamento, evidência de resultado, valor e restrições. Separar aceite funcional de resultado de uso; não presumir hipótese de produto validada.
 2. Explicar contratos/dependências e por que a tarefa pode ou não rodar em paralelo.
 3. Implementar módulo no escopo. Evidência funcional antes de pedir review.
 4. Verificar `npm test`, `npm run typecheck`, `npm run lint`, `npm run build`, conforme a mudança. Testar UI no navegador quando alterar interação.

@@ -7,7 +7,7 @@ A primeira tarefa é a prioridade da aula; as demais são continuação. Estimat
 
 Dimensões opcionais na exportação: preservar razão do corte atual, largura1..4096, altura derivada, opção tamanho original. Validação e componente independentes. Patch instrutor usa dimensões ao renderizar canvas final.
 
-Antes de codar, escreva uma spec curta com problema, exemplo antes/depois, comportamento de sucesso, erro e limites. Leia [os contratos](https://github.com/kipperacademy/image-cropper/blob/aula/workflow-ia/docs/aula/CONTRATOS.md). Use a base `aula/workflow-ia`.
+Antes de codar, escreva uma spec curta com problema, usuário, trabalho desejado, comportamento antes/depois, evidência de resultado, valor e restrições. Separe hipótese didática de necessidade validada e inclua sucesso/erro/limites. Consulte [problema e segurança](https://github.com/kipperacademy/image-cropper/blob/aula/workflow-ia/docs/aula/PROBLEMA-E-SEGURANCA.md). Leia [os contratos](https://github.com/kipperacademy/image-cropper/blob/aula/workflow-ia/docs/aula/CONTRATOS.md). Use a base `aula/workflow-ia`.
 
 ## Arquivos e paralelismo
 

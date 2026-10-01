@@ -7,7 +7,7 @@ A primeira tarefa é a prioridade da aula; as demais são continuação. Estimat
 
 Hook idle/saving/success/error, mensagens acessíveis, evitar envio duplo enquanto pendente; recebe fetcher para ensaio. Não retry automático do POST não idempotente. Patch instrutor substitui trecho save atual uma vez.
 
-Antes de codar, escreva uma spec curta com problema, exemplo antes/depois, comportamento de sucesso, erro e limites. Leia [os contratos](https://github.com/kipperacademy/image-cropper/blob/aula/workflow-ia/docs/aula/CONTRATOS.md). Use a base `aula/workflow-ia`.
+Antes de codar, escreva uma spec curta com problema, usuário, trabalho desejado, comportamento antes/depois, evidência de resultado, valor e restrições. Separe hipótese didática de necessidade validada e inclua sucesso/erro/limites. Consulte [problema e segurança](https://github.com/kipperacademy/image-cropper/blob/aula/workflow-ia/docs/aula/PROBLEMA-E-SEGURANCA.md). Leia [os contratos](https://github.com/kipperacademy/image-cropper/blob/aula/workflow-ia/docs/aula/CONTRATOS.md). Use a base `aula/workflow-ia`.
 
 ## Arquivos e paralelismo
 

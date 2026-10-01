@@ -7,7 +7,7 @@ A primeira tarefa é a prioridade da aula; as demais são continuação. Estimat
 
 Skill curta para revisar pixels naturais, privacidade da sessão, erros e evidências. Incluir quando usar, entradas, passos e saída. Rodar em diff pequeno real e registrar achado verificável; não instalar pacotes externos.
 
-Antes de codar, escreva uma spec curta com problema, exemplo antes/depois, comportamento de sucesso, erro e limites. Leia [os contratos](https://github.com/kipperacademy/image-cropper/blob/aula/workflow-ia/docs/aula/CONTRATOS.md). Use a base `aula/workflow-ia`.
+Antes de codar, escreva uma spec curta com problema, usuário, trabalho desejado, comportamento antes/depois, evidência de resultado, valor e restrições. Separe hipótese didática de necessidade validada e inclua sucesso/erro/limites. Consulte [problema e segurança](https://github.com/kipperacademy/image-cropper/blob/aula/workflow-ia/docs/aula/PROBLEMA-E-SEGURANCA.md). Leia [os contratos](https://github.com/kipperacademy/image-cropper/blob/aula/workflow-ia/docs/aula/CONTRATOS.md). Use a base `aula/workflow-ia`.
 
 ## Arquivos e paralelismo
 

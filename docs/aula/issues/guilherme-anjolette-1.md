@@ -7,7 +7,7 @@ A primeira tarefa é a prioridade da aula; as demais são continuação. Estimat
 
 PATCH /api/recipes/:id/rename recebe {label,expectedLabel}, ambos1..80. UPDATE atômico por id+ownerId+label anterior. 200 item, 404 sem acesso, 409 se texto mudou; Origin e body limitado. Sem nova coluna/migration. Documentar que comparação por texto não detecta cenário ABA.
 
-Antes de codar, escreva uma spec curta com problema, exemplo antes/depois, comportamento de sucesso, erro e limites. Leia [os contratos](https://github.com/kipperacademy/image-cropper/blob/aula/workflow-ia/docs/aula/CONTRATOS.md). Use a base `aula/workflow-ia`.
+Antes de codar, escreva uma spec curta com problema, usuário, trabalho desejado, comportamento antes/depois, evidência de resultado, valor e restrições. Separe hipótese didática de necessidade validada e inclua sucesso/erro/limites. Consulte [problema e segurança](https://github.com/kipperacademy/image-cropper/blob/aula/workflow-ia/docs/aula/PROBLEMA-E-SEGURANCA.md). Leia [os contratos](https://github.com/kipperacademy/image-cropper/blob/aula/workflow-ia/docs/aula/CONTRATOS.md). Use a base `aula/workflow-ia`.
 
 ## Arquivos e paralelismo
 

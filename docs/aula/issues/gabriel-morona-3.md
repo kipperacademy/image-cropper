@@ -7,7 +7,7 @@ A primeira tarefa é a prioridade da aula; as demais são continuação. Estimat
 
 Toolbar com setas para mover 1 pixel natural, Shift para 10, botão reset e rótulos acessíveis. Função pura limita posição à imagem. Atalhos só quando área do editor tem foco, nunca em inputs. Patch do instrutor aplica mudanças ao crop.
 
-Antes de codar, escreva uma spec curta com problema, exemplo antes/depois, comportamento de sucesso, erro e limites. Leia [os contratos](https://github.com/kipperacademy/image-cropper/blob/aula/workflow-ia/docs/aula/CONTRATOS.md). Use a base `aula/workflow-ia`.
+Antes de codar, escreva uma spec curta com problema, usuário, trabalho desejado, comportamento antes/depois, evidência de resultado, valor e restrições. Separe hipótese didática de necessidade validada e inclua sucesso/erro/limites. Consulte [problema e segurança](https://github.com/kipperacademy/image-cropper/blob/aula/workflow-ia/docs/aula/PROBLEMA-E-SEGURANCA.md). Leia [os contratos](https://github.com/kipperacademy/image-cropper/blob/aula/workflow-ia/docs/aula/CONTRATOS.md). Use a base `aula/workflow-ia`.
 
 ## Arquivos e paralelismo
 

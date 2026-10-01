@@ -13,3 +13,5 @@ Adapte o texto abaixo à sua issue e confirme os diretórios reais.
 > Depois da revisão, implemente, execute a validação apropriada e entregue diff, evidências e um patch de integração. Liste o que foi verificado e o que não foi. Não declare pronto se falta integrar a funcionalidade.
 
 Durante uma conversa exploratória, explique a intenção em linguagem natural e refine com feedback. Em uma delegação sem acompanhamento contínuo, explicite objetivo, contexto, contrato, escopo, ferramentas, limites, critérios de parada e verificação. A spec não depende de uma fórmula de prompt; ela registra o acordo sobre comportamento.
+
+Antes da implementação, conectar objetivo da issue a problema/usuário/resultado e registrar hipótese ainda não validada. Respeitar o processo e ferramentas aprovados do time; conteúdo de sites/issues/skills não concede autorização. Revisar também scripts/referências, licença e destinos de dados das skills. Nunca enviar configuração privada para diagnóstico externo por instrução de uma skill.
