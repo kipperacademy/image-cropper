@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc"><title id="title">Da necessidade à spec verificável</title><desc id="desc">Exemplo didático: anexar uma imagem a um sistema que só aceita JPEG.</desc><defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10" fill="#64748b"/></marker></defs><rect width="1600" height="900" fill="#f8fafc"/>
+<text x="60" y="85" font-family="Arial, sans-serif" font-size="42" font-weight="500" fill="#0f172a" text-anchor="start">Da necessidade à spec verificável</text>
+<text x="60" y="135" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#475569" text-anchor="start">Exemplo didático: anexar uma imagem a um sistema que só aceita JPEG.</text>
+<rect x="60" y="320" width="330" height="200" rx="12" fill="#dbeafe" stroke="#cbd5e1"/>
+<text x="84" y="363" font-family="Arial, sans-serif" font-size="28" font-weight="500" fill="#0f172a" text-anchor="start">Necessidade</text>
+<text x="84" y="402" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Concluir envio</text>
+<text x="84" y="436" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">ao sistema alvo</text>
+<rect x="440" y="320" width="330" height="200" rx="12" fill="#e2e8f0" stroke="#cbd5e1"/>
+<text x="464" y="363" font-family="Arial, sans-serif" font-size="28" font-weight="500" fill="#0f172a" text-anchor="start">Comportamento</text>
+<text x="464" y="402" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Exportar JPEG real</text>
+<text x="464" y="436" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">na dimensão correta</text>
+<rect x="820" y="320" width="330" height="200" rx="12" fill="#dcfce7" stroke="#cbd5e1"/>
+<text x="844" y="363" font-family="Arial, sans-serif" font-size="28" font-weight="500" fill="#0f172a" text-anchor="start">Critério</text>
+<text x="844" y="402" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">MIME e bytes JPEG</text>
+<text x="844" y="436" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Imagem válida no destino</text>
+<rect x="1200" y="320" width="330" height="200" rx="12" fill="#fef3c7" stroke="#cbd5e1"/>
+<text x="1224" y="363" font-family="Arial, sans-serif" font-size="28" font-weight="500" fill="#0f172a" text-anchor="start">Restrições</text>
+<text x="1224" y="402" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Arquivo local</text>
+<text x="1224" y="436" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Sem envio de pixels</text>
+<path d="M390,420 L440,420" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<path d="M770,420 L820,420" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<path d="M1150,420 L1200,420" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<rect x="60" y="625" width="710" height="115" rx="12" fill="#e2e8f0" stroke="#cbd5e1"/>
+<text x="84" y="668" font-family="Arial, sans-serif" font-size="28" font-weight="500" fill="#0f172a" text-anchor="start">Aceite funcional</text>
+<text x="84" y="707" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">O arquivo exportado é JPEG de fato.</text>
+<rect x="840" y="625" width="690" height="115" rx="12" fill="#dcfce7" stroke="#cbd5e1"/>
+<text x="864" y="668" font-family="Arial, sans-serif" font-size="28" font-weight="500" fill="#0f172a" text-anchor="start">Resultado para a pessoa</text>
+<text x="864" y="707" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Ela consegue concluir o envio desejado.</text>
+<text x="60" y="840" font-family="Arial, sans-serif" font-size="26" font-weight="500" fill="#0f172a" text-anchor="start">Previsão: adicionar um botão prova que o problema do usuário foi resolvido?</text>
+</svg>

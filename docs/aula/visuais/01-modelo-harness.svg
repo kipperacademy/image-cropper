@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc"><title id="title">Modelo propõe; software executa</title><desc id="desc">Uma chamada de função é um pedido. Declarar a função não executa seu código.</desc><defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10" fill="#64748b"/></marker></defs><rect width="1600" height="900" fill="#f8fafc"/>
+<text x="60" y="85" font-family="Arial, sans-serif" font-size="42" font-weight="500" fill="#0f172a" text-anchor="start">Modelo propõe; software executa</text>
+<text x="60" y="135" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#475569" text-anchor="start">Uma chamada de função é um pedido. Declarar a função não executa seu código.</text>
+<rect x="60" y="290" width="330" height="165" rx="12" fill="#e2e8f0" stroke="#cbd5e1"/>
+<text x="84" y="333" font-family="Arial, sans-serif" font-size="28" font-weight="500" fill="#0f172a" text-anchor="start">Pessoa</text>
+<text x="84" y="372" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Objetivo e contexto</text>
+<rect x="440" y="290" width="330" height="165" rx="12" fill="#dbeafe" stroke="#cbd5e1"/>
+<text x="464" y="333" font-family="Arial, sans-serif" font-size="28" font-weight="500" fill="#0f172a" text-anchor="start">Modelo</text>
+<text x="464" y="372" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Resposta ou tool call</text>
+<rect x="820" y="290" width="330" height="165" rx="12" fill="#dcfce7" stroke="#cbd5e1"/>
+<text x="844" y="333" font-family="Arial, sans-serif" font-size="28" font-weight="500" fill="#0f172a" text-anchor="start">Harness</text>
+<text x="844" y="372" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Valida e encaminha</text>
+<rect x="1200" y="290" width="330" height="165" rx="12" fill="#fef3c7" stroke="#cbd5e1"/>
+<text x="1224" y="333" font-family="Arial, sans-serif" font-size="28" font-weight="500" fill="#0f172a" text-anchor="start">Ferramenta</text>
+<text x="1224" y="372" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Executa operação</text>
+<path d="M390,372 L440,372" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<path d="M770,372 L820,372" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<path d="M1150,372 L1200,372" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<path d="M1365,455 V590 H605 V455" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<text x="990" y="575" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#0f172a" text-anchor="middle">Resultado volta ao contexto do modelo</text>
+<rect x="430" y="655" width="1090" height="95" rx="12" fill="#ecfdf5" stroke="#cbd5e1"/>
+<text x="454" y="698" font-family="Arial, sans-serif" font-size="28" font-weight="500" fill="#0f172a" text-anchor="start">Harness também coordena contexto, permissões e continuidade</text>
+<text x="60" y="840" font-family="Arial, sans-serif" font-size="26" font-weight="500" fill="#0f172a" text-anchor="start">Previsão: se retornou function_call e o executor parou, o que ainda não aconteceu?</text>
+</svg>

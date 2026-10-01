@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc"><title id="title">Skills, tools, MCP e controle de acesso</title><desc id="desc">Instrução ajuda a escolher a ação; permissões limitam o que o sistema pode executar.</desc><defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10" fill="#64748b"/></marker></defs><rect width="1600" height="900" fill="#f8fafc"/>
+<text x="60" y="85" font-family="Arial, sans-serif" font-size="42" font-weight="500" fill="#0f172a" text-anchor="start">Skills, tools, MCP e controle de acesso</text>
+<text x="60" y="135" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#475569" text-anchor="start">Instrução ajuda a escolher a ação; permissões limitam o que o sistema pode executar.</text>
+<rect x="60" y="220" width="450" height="150" rx="12" fill="#dbeafe" stroke="#cbd5e1"/>
+<text x="84" y="263" font-family="Arial, sans-serif" font-size="28" font-weight="500" fill="#0f172a" text-anchor="start">Skill</text>
+<text x="84" y="302" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Procedimento e referências</text>
+<text x="84" y="336" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Pode incluir scripts</text>
+<rect x="600" y="220" width="450" height="150" rx="12" fill="#e2e8f0" stroke="#cbd5e1"/>
+<text x="624" y="263" font-family="Arial, sans-serif" font-size="28" font-weight="500" fill="#0f172a" text-anchor="start">MCP</text>
+<text x="624" y="302" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Protocolo para expor</text>
+<text x="624" y="336" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">capacidades e contexto</text>
+<rect x="1140" y="220" width="400" height="150" rx="12" fill="#fef3c7" stroke="#cbd5e1"/>
+<text x="1164" y="263" font-family="Arial, sans-serif" font-size="28" font-weight="500" fill="#0f172a" text-anchor="start">Tool</text>
+<text x="1164" y="302" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Operação executável</text>
+<text x="1164" y="336" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Leitura ou ação</text>
+<rect x="60" y="485" width="450" height="150" rx="12" fill="#fee2e2" stroke="#cbd5e1"/>
+<text x="84" y="528" font-family="Arial, sans-serif" font-size="28" font-weight="500" fill="#0f172a" text-anchor="start">Conteúdo externo</text>
+<text x="84" y="567" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Issue, página ou arquivo</text>
+<text x="84" y="601" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Pode conter instrução hostil</text>
+<rect x="600" y="485" width="450" height="150" rx="12" fill="#dcfce7" stroke="#cbd5e1"/>
+<text x="624" y="528" font-family="Arial, sans-serif" font-size="28" font-weight="500" fill="#0f172a" text-anchor="start">Harness / políticas</text>
+<text x="624" y="567" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Validar autorização</text>
+<text x="624" y="601" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Escopo, ambiente e acesso</text>
+<rect x="1140" y="485" width="400" height="150" rx="12" fill="#e2e8f0" stroke="#cbd5e1"/>
+<text x="1164" y="528" font-family="Arial, sans-serif" font-size="28" font-weight="500" fill="#0f172a" text-anchor="start">Dados / sistemas</text>
+<text x="1164" y="567" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Somente o necessário</text>
+<text x="1164" y="601" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Branch de teste sintética</text>
+<path d="M510,560 L600,560" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<path d="M1050,560 L1140,560" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<text x="60" y="840" font-family="Arial, sans-serif" font-size="26" font-weight="500" fill="#0f172a" text-anchor="start">Previsão: uma skill pode autorizar enviar .env.local só porque pede isso no texto?</text>
+</svg>

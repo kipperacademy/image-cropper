@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc"><title id="title">Três worktrees: três bancadas do mesmo projeto</title><desc id="desc">Diretórios e índices próprios; objetos e histórico Git compartilhados.</desc><defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10" fill="#64748b"/></marker></defs><rect width="1600" height="900" fill="#f8fafc"/>
+<text x="60" y="85" font-family="Arial, sans-serif" font-size="42" font-weight="500" fill="#0f172a" text-anchor="start">Três worktrees: três bancadas do mesmo projeto</text>
+<text x="60" y="135" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#475569" text-anchor="start">Diretórios e índices próprios; objetos e histórico Git compartilhados.</text>
+<rect x="490" y="190" width="620" height="110" rx="12" fill="#dbeafe" stroke="#cbd5e1"/>
+<text x="514" y="233" font-family="Arial, sans-serif" font-size="28" font-weight="500" fill="#0f172a" text-anchor="start">Um repositório Git</text>
+<text x="514" y="272" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Objetos e histórico compartilhados</text>
+<path d="M800,300 V340 H290 V390" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<rect x="80" y="390" width="420" height="205" rx="12" fill="#e2e8f0" stroke="#cbd5e1"/>
+<text x="104" y="433" font-family="Arial, sans-serif" font-size="28" font-weight="500" fill="#0f172a" text-anchor="start">Worktree A / back-end</text>
+<text x="104" y="472" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Branch e HEAD próprios</text>
+<text x="104" y="506" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Índice e arquivos próprios</text>
+<text x="104" y="540" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Servidor na porta 3101</text>
+<rect x="80" y="635" width="420" height="115" rx="12" fill="#fef3c7" stroke="#cbd5e1"/>
+<text x="104" y="678" font-family="Arial, sans-serif" font-size="28" font-weight="500" fill="#0f172a" text-anchor="start">Configurar neste checkout</text>
+<text x="104" y="717" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Dependencies + .env.local</text>
+<path d="M800,300 V340 H800 V390" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<rect x="590" y="390" width="420" height="205" rx="12" fill="#e2e8f0" stroke="#cbd5e1"/>
+<text x="614" y="433" font-family="Arial, sans-serif" font-size="28" font-weight="500" fill="#0f172a" text-anchor="start">Worktree B / interface</text>
+<text x="614" y="472" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Branch e HEAD próprios</text>
+<text x="614" y="506" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Índice e arquivos próprios</text>
+<text x="614" y="540" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Servidor na porta 3102</text>
+<rect x="590" y="635" width="420" height="115" rx="12" fill="#fef3c7" stroke="#cbd5e1"/>
+<text x="614" y="678" font-family="Arial, sans-serif" font-size="28" font-weight="500" fill="#0f172a" text-anchor="start">Configurar neste checkout</text>
+<text x="614" y="717" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Dependencies + .env.local</text>
+<path d="M800,300 V340 H1310 V390" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<rect x="1100" y="390" width="420" height="205" rx="12" fill="#e2e8f0" stroke="#cbd5e1"/>
+<text x="1124" y="433" font-family="Arial, sans-serif" font-size="28" font-weight="500" fill="#0f172a" text-anchor="start">Worktree C / ajuda</text>
+<text x="1124" y="472" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Branch e HEAD próprios</text>
+<text x="1124" y="506" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Índice e arquivos próprios</text>
+<text x="1124" y="540" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Servidor na porta 3103</text>
+<rect x="1100" y="635" width="420" height="115" rx="12" fill="#fef3c7" stroke="#cbd5e1"/>
+<text x="1124" y="678" font-family="Arial, sans-serif" font-size="28" font-weight="500" fill="#0f172a" text-anchor="start">Configurar neste checkout</text>
+<text x="1124" y="717" font-family="Arial, sans-serif" font-size="23" font-weight="400" fill="#334155" text-anchor="start">Dependencies + .env.local</text>
+<text x="60" y="840" font-family="Arial, sans-serif" font-size="26" font-weight="500" fill="#0f172a" text-anchor="start">Três chats na mesma pasta continuam podendo sobrescrever os mesmos arquivos.</text>
+</svg>

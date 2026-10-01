@@ -4,7 +4,7 @@ Editor de imagem local com corte1:1, preview e download PNG. A base da aula acre
 
 ## Aula de workflow com IA
 
-Base: `aula/workflow-ia`. [Tarefas por pessoa](docs/aula/TAREFAS.md) · [Contratos e ownership](docs/aula/CONTRATOS.md) · [Prompt de delegação](docs/aula/PROMPT-DELEGACAO.md) · [Problema e segurança](docs/aula/PROBLEMA-E-SEGURANCA.md).
+Base: `aula/workflow-ia`. [Tarefas por pessoa](docs/aula/TAREFAS.md) · [Contratos e ownership](docs/aula/CONTRATOS.md) · [Prompt de delegação](docs/aula/PROMPT-DELEGACAO.md) · [Problema e segurança](docs/aula/PROBLEMA-E-SEGURANCA.md) · [Diagramas e analogias](docs/aula/VISUAIS.md).
 
 Trinta issues são três exercícios por pessoa. Priorize tarefa1 na aula,2/3 na continuação. Módulos separados permitem trabalho paralelo; o instrutor integra arquivos compartilhados uma vez por tarefa e confirma o resultado na aplicação.
 
