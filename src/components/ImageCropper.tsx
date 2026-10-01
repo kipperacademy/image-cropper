@@ -1,6 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
+import RecipeHistory from "./RecipeHistory";
 
 // Crop box in natural image pixels. Always square (1:1).
 type Crop = { x: number; y: number; size: number };
@@ -283,6 +284,10 @@ export default function ImageCropper() {
           </aside>
         </div>
       )}
+      <RecipeHistory recipe={src && crop.size > 0 ? {
+        label: fileName, imageWidth: natural.w, imageHeight: natural.h,
+        x: crop.x, y: crop.y, width: crop.size, height: crop.size,
+      } : null} />
     </div>
   );
 }

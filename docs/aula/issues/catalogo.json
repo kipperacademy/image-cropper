@@ -1,0 +1,242 @@
+[
+  {
+    "key": "yngredh-1",
+    "name": "Yngredh",
+    "n": 1,
+    "title": "[Aula IA][Yngredh][1/3] Excluir uma receita da própria sessão",
+    "question": "Se o cliente manda um id válido, isso basta para autorizar a exclusão?",
+    "track": "back-end"
+  },
+  {
+    "key": "yngredh-2",
+    "name": "Yngredh",
+    "n": 2,
+    "title": "[Aula IA][Yngredh][2/3] Consultar uma receita por id sem expor outra sessão",
+    "question": "Por que responder 404 também quando o id pertence a outra sessão?",
+    "track": "back-end"
+  },
+  {
+    "key": "yngredh-3",
+    "name": "Yngredh",
+    "n": 3,
+    "title": "[Aula IA][Yngredh][3/3] Disponibilizar catálogo de proporções",
+    "question": "Qual parte pertence ao contrato e qual parte exige uma implementação na interface?",
+    "track": "back-end"
+  },
+  {
+    "key": "gabriel-morona-1",
+    "name": "Gabriel Morona",
+    "n": 1,
+    "title": "[Aula IA][Gabriel Morona][1/3] Exportar recorte em PNG, JPEG e WebP",
+    "question": "Como provar que mudar a extensão produziu outro formato de imagem?",
+    "track": "front-end"
+  },
+  {
+    "key": "gabriel-morona-2",
+    "name": "Gabriel Morona",
+    "n": 2,
+    "title": "[Aula IA][Gabriel Morona][2/3] Validar arquivos e permitir tentar de novo",
+    "question": "Por que file.type não garante que os bytes são uma imagem?",
+    "track": "front-end"
+  },
+  {
+    "key": "gabriel-morona-3",
+    "name": "Gabriel Morona",
+    "n": 3,
+    "title": "[Aula IA][Gabriel Morona][3/3] Controlar o corte pelo teclado",
+    "question": "Quem controla o tamanho visual e quem controla a posição real do corte?",
+    "track": "front-end"
+  },
+  {
+    "key": "lorenzo-ribeiro-1",
+    "name": "Lorenzo Ribeiro",
+    "n": 1,
+    "title": "[Aula IA][Lorenzo Ribeiro][1/3] Extrair regras de geometria do corte",
+    "question": "Se duas sessões escrevem no mesmo componente, worktrees eliminam o conflito de merge?",
+    "track": "fullstack / back-end"
+  },
+  {
+    "key": "lorenzo-ribeiro-2",
+    "name": "Lorenzo Ribeiro",
+    "n": 2,
+    "title": "[Aula IA][Lorenzo Ribeiro][2/3] Criar skill de revisão de crop e isolamento",
+    "question": "Uma skill adiciona capacidade executável por si só?",
+    "track": "workflow / qualidade"
+  },
+  {
+    "key": "lorenzo-ribeiro-3",
+    "name": "Lorenzo Ribeiro",
+    "n": 3,
+    "title": "[Aula IA][Lorenzo Ribeiro][3/3] Comparar contextos em uma tarefa de revisão",
+    "question": "Uma execução mais barata é melhor se não encontra o bug exigido?",
+    "track": "workflow / custo"
+  },
+  {
+    "key": "leonardo-lucas-1",
+    "name": "Leonardo Lucas",
+    "n": 1,
+    "title": "[Aula IA][Leonardo Lucas][1/3] Exportar histórico visível como CSV",
+    "question": "Por que dado válido no JSON pode ser perigoso ao abrir em planilha?",
+    "track": "dados / Node e Python"
+  },
+  {
+    "key": "leonardo-lucas-2",
+    "name": "Leonardo Lucas",
+    "n": 2,
+    "title": "[Aula IA][Leonardo Lucas][2/3] Mostrar quanto da imagem o corte preserva",
+    "question": "25% da área significa 25% dos bytes no arquivo exportado?",
+    "track": "dados / interface"
+  },
+  {
+    "key": "leonardo-lucas-3",
+    "name": "Leonardo Lucas",
+    "n": 3,
+    "title": "[Aula IA][Leonardo Lucas][3/3] Filtrar histórico carregado por nome e data",
+    "question": "Um filtro local consegue encontrar uma receita que não foi carregada?",
+    "track": "dados / interface"
+  },
+  {
+    "key": "joão-victor-1",
+    "name": "João Victor",
+    "n": 1,
+    "title": "[Aula IA][João Victor][1/3] Escolher dimensões da imagem exportada",
+    "question": "Alterar resolução de saída precisa alterar coordenadas do corte?",
+    "track": "front-end → fullstack"
+  },
+  {
+    "key": "joão-victor-2",
+    "name": "João Victor",
+    "n": 2,
+    "title": "[Aula IA][João Victor][2/3] Validar uma receita JSON antes de aplicar",
+    "question": "Duas imagens de mesmo tamanho são necessariamente a mesma imagem?",
+    "track": "fullstack"
+  },
+  {
+    "key": "joão-victor-3",
+    "name": "João Victor",
+    "n": 3,
+    "title": "[Aula IA][João Victor][3/3] Adicionar presets de razão na interface",
+    "question": "Qual evidência diferencia botão decorativo de funcionalidade concluída?",
+    "track": "front-end"
+  },
+  {
+    "key": "giacomo-accardi-1",
+    "name": "Giacomo Accardi",
+    "n": 1,
+    "title": "[Aula IA][Giacomo Accardi][1/3] Mostrar informações da imagem selecionada",
+    "question": "O que podemos descobrir pelo arquivo sem pedir nada ao modelo?",
+    "track": "educação / Python / transição"
+  },
+  {
+    "key": "giacomo-accardi-2",
+    "name": "Giacomo Accardi",
+    "n": 2,
+    "title": "[Aula IA][Giacomo Accardi][2/3] Criar página de ajuda sobre cortes e privacidade",
+    "question": "Qual diferença entre salvar receita e salvar a fotografia?",
+    "track": "educação / experiência"
+  },
+  {
+    "key": "giacomo-accardi-3",
+    "name": "Giacomo Accardi",
+    "n": 3,
+    "title": "[Aula IA][Giacomo Accardi][3/3] Criar roteiro de verificação reproduzível",
+    "question": "Por que o agente dizer que terminou não serve como evidência?",
+    "track": "qualidade / educação"
+  },
+  {
+    "key": "guilherme-anjolette-1",
+    "name": "Guilherme Anjolette",
+    "n": 1,
+    "title": "[Aula IA][Guilherme Anjolette][1/3] Renomear uma receita com comparação do valor anterior",
+    "question": "Ler e depois atualizar garante ausência de corrida?",
+    "track": "back-end / .NET"
+  },
+  {
+    "key": "guilherme-anjolette-2",
+    "name": "Guilherme Anjolette",
+    "n": 2,
+    "title": "[Aula IA][Guilherme Anjolette][2/3] Importar lote de receitas atomicamente",
+    "question": "Se nove inserts deram certo e o décimo falhou, qual promessa fizemos?",
+    "track": "back-end / transações"
+  },
+  {
+    "key": "guilherme-anjolette-3",
+    "name": "Guilherme Anjolette",
+    "n": 3,
+    "title": "[Aula IA][Guilherme Anjolette][3/3] Resumir somente receitas da sessão",
+    "question": "Onde deve acontecer o filtro de autorização ao agregar?",
+    "track": "back-end / SQL"
+  },
+  {
+    "key": "rodrigo-sena-1",
+    "name": "Rodrigo Sena",
+    "n": 1,
+    "title": "[Aula IA][Rodrigo Sena][1/3] Pesquisar receitas da sessão no servidor",
+    "question": "Por que parametrização e semântica de wildcard são dois assuntos diferentes?",
+    "track": "fullstack / arquitetura"
+  },
+  {
+    "key": "rodrigo-sena-2",
+    "name": "Rodrigo Sena",
+    "n": 2,
+    "title": "[Aula IA][Rodrigo Sena][2/3] Criar hook de salvamento com estados explícitos",
+    "question": "Pode repetir um POST automaticamente depois de timeout?",
+    "track": "front-end / estados"
+  },
+  {
+    "key": "rodrigo-sena-3",
+    "name": "Rodrigo Sena",
+    "n": 3,
+    "title": "[Aula IA][Rodrigo Sena][3/3] Baixar uma receita individual em JSON",
+    "question": "O contrato de exportação deveria incluir campos internos do banco?",
+    "track": "fullstack / portabilidade"
+  },
+  {
+    "key": "leandro-santana-1",
+    "name": "Leandro Santana",
+    "n": 1,
+    "title": "[Aula IA][Leandro Santana][1/3] Criar adapter de persistência para receitas",
+    "question": "O que torna um adapter útil em vez de apenas mais arquivos?",
+    "track": "back-end / arquitetura"
+  },
+  {
+    "key": "leandro-santana-2",
+    "name": "Leandro Santana",
+    "n": 2,
+    "title": "[Aula IA][Leandro Santana][2/3] Verificar disponibilidade do banco sem expor configuração",
+    "question": "Por que uma tela funcionando não prova que persistência está disponível?",
+    "track": "back-end / operação"
+  },
+  {
+    "key": "leandro-santana-3",
+    "name": "Leandro Santana",
+    "n": 3,
+    "title": "[Aula IA][Leandro Santana][3/3] Exportar backup das receitas da sessão",
+    "question": "Esse backup garante recuperar a imagem original?",
+    "track": "back-end / portabilidade"
+  },
+  {
+    "key": "matheus-henrique-de-azevedo-1",
+    "name": "Matheus Henrique de Azevedo",
+    "n": 1,
+    "title": "[Aula IA][Matheus Henrique de Azevedo][1/3] Planejar e implementar salvamento idempotente",
+    "question": "Timeout prova que a operação falhou no servidor?",
+    "track": "back-end / consistência"
+  },
+  {
+    "key": "matheus-henrique-de-azevedo-2",
+    "name": "Matheus Henrique de Azevedo",
+    "n": 2,
+    "title": "[Aula IA][Matheus Henrique de Azevedo][2/3] Verificar retry e rollback do salvamento idempotente",
+    "question": "Por que um mock que sempre retorna sucesso não comprova atomicidade?",
+    "track": "back-end / confiabilidade"
+  },
+  {
+    "key": "matheus-henrique-de-azevedo-3",
+    "name": "Matheus Henrique de Azevedo",
+    "n": 3,
+    "title": "[Aula IA][Matheus Henrique de Azevedo][3/3] Adicionar paginação estável por cursor",
+    "question": "Ordenar só por data basta quando duas receitas têm mesmo timestamp?",
+    "track": "back-end / paginação"
+  }
+]
